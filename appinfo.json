@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "elliott.a.young@gmail.com",
+    "longName": "UL",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/ul-logo-white.png",
+                "name": "IMAGE_BACKGROUND",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "UL",
+    "targetPlatforms": [
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "797dfec6-9447-42f7-a068-f58b04d70a17",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
